@@ -9,6 +9,7 @@
 ![JS gzip size](http://img.badgesize.io/https://unpkg.com/vue-amap/src/lib/index.js?compression=gzip&label=gzip%20size:%20JS)
 [![license](https://img.shields.io/github/license/elemefe/vue-amap.svg?style=flat-square)](https://github.com/ElemeFE/vue-amap)
 [![GitHub stars](https://img.shields.io/github/stars/elemefe/vue-amap.svg?style=social&label=Star)](https://github.com/ElemeFE/vue-amap)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjerry-i%2Fvue-amap.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjerry-i%2Fvue-amap?ref=badge_shield)
 
 > vue-amap是一套基于Vue 2.0和高德地图的地图组件。
 
@@ -103,3 +104,7 @@ AMap.initAMapApiLoader({
 <el-amap vid="amapDemo">
 </el-amap>
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjerry-i%2Fvue-amap.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjerry-i%2Fvue-amap?ref=badge_large)
